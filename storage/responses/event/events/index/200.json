@@ -1,0 +1,1 @@
+{"data":[{"id":1,"event_id":"auth.remind_password","is_active":1,"from_email":null,"from_name":null,"content_type":null,"body":"[email], [code]","subject":"Remind password"}],"meta":{"pagination":{"total":1,"count":1,"per_page":10,"current_page":1,"total_pages":1,"links":{"next":null,"previous":null}}},"count":1}

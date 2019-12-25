@@ -1,0 +1,1 @@
+{"message":"validation.the_given_data_was_invalid","errors":{"slug":["The Slug field is required."],"is_active":["The Active field is required."],"ru.title":["The ru.title field is required."],"ua.title":["The ua.title field is required."],"en.title":["The en.title field is required."]}}

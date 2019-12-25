@@ -1,0 +1,58 @@
+{
+        "id": 358,
+        "structure_id": "000001",
+        "template_id": 1,
+        "alias": "index",
+        "title": "Главная - konopelski.com",
+        "blocks": [],
+        "childs": {
+            "contact": {
+                "id": 359,
+                "structure_id": "000001000001",
+                "template_id": 2,
+                "alias": "contact",
+                "title": "Quia autem dolore quidem.",
+                "blocks": [],
+                "childs": []
+            },
+            "about": {
+                "id": 360,
+                "structure_id": "000001000002",
+                "template_id": 2,
+                "alias": "about",
+                "title": "Eos quae dicta aut.",
+                "blocks": [],
+                "childs": []
+            },
+            "news": {
+                "id": 361,
+                "structure_id": "000001000003",
+                "template_id": 1,
+                "alias": "news",
+                "title": "Ut earum omnis placeat autem.",
+                "blocks": [],
+                "childs": {
+                    "category": {
+                        "id": 362,
+                        "structure_id": "000001000003000001",
+                        "template_id": 2,
+                        "alias": "category",
+                        "title": "Et in sed quos enim aut.",
+                        "blocks": [],
+                        "childs": {
+                            "view": {
+                                "id": 363,
+                                "structure_id": "000001000003000001000001",
+                                "template_id": 2,
+                                "alias": "view",
+                                "title": "Omnis vel et rerum facere.",
+                                "blocks": [],
+                                "childs": []
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    
+}
