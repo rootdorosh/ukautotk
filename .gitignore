@@ -1,0 +1,21 @@
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+.env
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+composer.lock
+
+# frontend builds
+/public/css/app.css
+/public/css/bootstrap-custom.css
+/public/js/*.js
+!/public/js/main.js
+!/public/js/galleryManager/jquery.galleryManager.js
+!/public/js/adminlte.min.js
+/yarn.lock
+/package-lock.json
